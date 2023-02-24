@@ -1,7 +1,7 @@
 <h1 align="center"> 💫 About Me: </h1>
 
 <p align="center"> 
-<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ashmit+Prajapati;+Welcome+to+My+Profile+!;Always+learning+new+things+!+!+!)](https://git.io/typing-svg)" alt="githubashmit" /></a>
+<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ashmit+Prajapati;+Welcome+to+My+Profile+!;Always+learning+new+things+!+!+!" alt="githubashmit" /></a>
 </p>
 
 <h1 align="center"> Full Stack Developer | Python | CSS & HTML | JAVASCRIPT Student at Lovely Professional University. </h1>
