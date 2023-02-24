@@ -1,7 +1,6 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ashmit+Prajapati;+Welcome+to+My+Profile+!;Always+learning+new+things+!+!+!)](https://git.io/typing-svg)
 
-# <h1 align="center">💫 About Me: </h1>
 <h1 align="center"> Full Stack Developer | Python | CSS & HTML | JAVASCRIPT Student at Lovely Professional University. </h1>
 
 ![Rustic Minimal Wedding Print Banner](https://user-images.githubusercontent.com/115689443/221091119-1d8f71a6-712c-4769-8e4d-c430c22632dd.png)
