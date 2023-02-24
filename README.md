@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ashmit+Prajapati;+Welcome+to+My+Profile+!;Always+learning+new+things+!+!+!)](https://git.io/typing-svg)
 Full Stack Developer | Python | CSS & HTML | JAVASCRIPT Student at Lovely Professional University.
 
+![Rustic Minimal Wedding Print Banner](https://user-images.githubusercontent.com/115689443/221091119-1d8f71a6-712c-4769-8e4d-c430c22632dd.png)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1039403244440526858/1043152112084852747) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashmit_github) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashmit-prajapati-b26657256/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Ashmit-Prajapati-2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20744040) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/AshmitPrajapat7) 
