@@ -6,6 +6,7 @@
 
 <h1 align="center">Student at Lovely Professional University. </h1>
 <h1 align="center"> ML Enthusiast. Algorithmist. A.I.</h1>
+<h6> Reach me at ashmit.prajapati@lpu.in</h6>
 
 ![Rustic Minimal Wedding Print Banner](https://user-images.githubusercontent.com/115689443/221091119-1d8f71a6-712c-4769-8e4d-c430c22632dd.png)
 
